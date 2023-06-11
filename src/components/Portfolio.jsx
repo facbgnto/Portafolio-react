@@ -3,9 +3,7 @@ import '../assest/css/portfolio.css'
 
 const Porfolio = () => {
   return (
-    <div>
-      posad
-    </div>
+    <section id='portafolio'>portafolio</section>
   )
 }
 

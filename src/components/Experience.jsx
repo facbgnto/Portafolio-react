@@ -3,9 +3,7 @@ import '../assest/css/experience.css'
 
 function experience() {
   return (
-    <div>
-      
-    </div>
+    <section id='experience'>experience</section>
   )
 }
 
